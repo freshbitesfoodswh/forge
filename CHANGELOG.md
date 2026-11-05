@@ -1,5 +1,8 @@
 # Changelog — Forge
 
+## 0.3.0 — 2026-11-04 (America/Chicago)
+- Ask Jedi Bot collapsible request panel (shared with Atrium builds)
+
 ## 0.2.0 — 2026-11-04 (America/Chicago)
 - Canvas board mode: infinite pan/zoom grid, design frames from sections, sticky notes, freehand draw
 - Section rail still reorders page sections into the live preview

@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 const dir = path.resolve(__dirname, 'projects/default');
 export default defineConfig({
+  base: '/forge/',
   plugins: [react(), {
     name: 'forge-persist',
     configureServer(s) {
